@@ -2,6 +2,8 @@ package com.designpatterns.behavioural.memento;
 
 import java.util.Stack;
 
+//memento patterns is to implement UNDO mechanism
+
 public class Main {
     public static void main(String[] args) {
 

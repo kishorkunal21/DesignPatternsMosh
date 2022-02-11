@@ -1,5 +1,7 @@
 package com.designpatterns.behavioural.iterator;
 
+// Iterator is to separate the Iteration task and keep it common -
+// extendable to any kind of collection in future
 public class Main {
     public static void main(String[] args) {
         Browser browser = new Browser();

@@ -1,6 +1,5 @@
 package com.designpatterns.behavioural.memento;
 
-//memento patterns is to implement UNDO mechanism
 //SOLUTION -
 public class Editor {
     private String text, heading ;
